@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: congtycanhtoan
+    env: docker
+    dockerfilePath: Dockerfile
+    plan: free
+    region: singapore
